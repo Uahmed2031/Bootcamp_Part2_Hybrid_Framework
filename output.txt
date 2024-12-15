@@ -1,0 +1,54 @@
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for com.Bootcamp.project:Bootcamp_Part2_TestNG_Framework:jar:0.0.1-SNAPSHOT
+[WARNING] 'build.pluginManagement.plugins.plugin.(groupId:artifactId)' must be unique but found duplicate declaration of plugin org.apache.maven.plugins:maven-surefire-plugin @ line 151, column 13
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO] 
+[INFO] --------< com.Bootcamp.project:Bootcamp_Part2_TestNG_Framework >--------
+[INFO] Building Bootcamp_Part2_TestNG_Framework 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] skip non existing resourceDirectory C:\Users\sura2\eclipse-workspace\Bootcamp_Part2_Hybrid_Framework\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] skip non existing resourceDirectory C:\Users\sura2\eclipse-workspace\Bootcamp_Part2_Hybrid_Framework\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] skip non existing resourceDirectory C:\Users\sura2\eclipse-workspace\Bootcamp_Part2_Hybrid_Framework\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] Nothing to compile - all classes are up to date.
+[INFO] 
+[INFO] --- surefire:3.3.0:test (default-test) @ Bootcamp_Part2_TestNG_Framework ---
+[INFO] Using auto detected provider org.apache.maven.surefire.testng.TestNGProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running TestSuite
+Sat Dec 14 23:35:16 EST 2024
+Sat Dec 14 23:35:22 EST 2024
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 43.56 s -- in TestSuite
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 7, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  46.694 s
+[INFO] Finished at: 2024-12-14T23:35:33-05:00
+[INFO] ------------------------------------------------------------------------

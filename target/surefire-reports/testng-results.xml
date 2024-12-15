@@ -2,98 +2,98 @@
 <testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-09T03:46:13 EST" name="Surefire suite" finished-at="2024-12-09T03:46:51 EST" duration-ms="38015">
+  <suite started-at="2024-12-14T23:34:49 EST" name="Surefire suite" finished-at="2024-12-14T23:35:32 EST" duration-ms="42973">
     <groups>
     </groups>
-    <test started-at="2024-12-09T03:46:13 EST" name="Surefire test" finished-at="2024-12-09T03:46:51 EST" duration-ms="38015">
+    <test started-at="2024-12-14T23:34:49 EST" name="Surefire test" finished-at="2024-12-14T23:35:32 EST" duration-ms="42973">
       <class name="com.TN.TestCases.Add2CartAndCheckoutTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TN.TestCases.Add2CartAndCheckoutTest@15b204a1]" started-at="2024-12-09T03:46:13 EST" name="Setup" finished-at="2024-12-09T03:46:15 EST" duration-ms="1845" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.TN.TestCases.Add2CartAndCheckoutTest@15b204a1]" started-at="2024-12-14T23:34:50 EST" name="Setup" finished-at="2024-12-14T23:34:52 EST" duration-ms="2284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="addValidProductToCart()[pri:0, instance:com.TN.TestCases.Add2CartAndCheckoutTest@15b204a1]" started-at="2024-12-09T03:46:15 EST" name="addValidProductToCart" finished-at="2024-12-09T03:46:23 EST" duration-ms="7337" status="PASS">
+        <test-method signature="addValidProductToCart()[pri:0, instance:com.TN.TestCases.Add2CartAndCheckoutTest@15b204a1]" started-at="2024-12-14T23:34:52 EST" name="addValidProductToCart" finished-at="2024-12-14T23:34:59 EST" duration-ms="7061" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addValidProductToCart -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.Add2CartAndCheckoutTest@15b204a1]" started-at="2024-12-09T03:46:23 EST" name="tearDown" finished-at="2024-12-09T03:46:23 EST" duration-ms="161" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.Add2CartAndCheckoutTest@15b204a1]" started-at="2024-12-14T23:34:59 EST" name="tearDown" finished-at="2024-12-14T23:34:59 EST" duration-ms="261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.TN.TestCases.Add2CartAndCheckoutTest -->
       <class name="com.TN.TestCases.SearchProductTest">
-        <test-method is-config="true" signature="searchProductSetup()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-09T03:46:44 EST" name="searchProductSetup" finished-at="2024-12-09T03:46:44 EST" duration-ms="889" status="PASS">
+        <test-method is-config="true" signature="searchProductSetup()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-14T23:35:24 EST" name="searchProductSetup" finished-at="2024-12-14T23:35:25 EST" duration-ms="1169" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProductSetup -->
-        <test-method signature="searchWithValidProduct()[pri:1, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-09T03:46:44 EST" name="searchWithValidProduct" finished-at="2024-12-09T03:46:47 EST" duration-ms="2807" status="PASS">
+        <test-method signature="searchWithValidProduct()[pri:1, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-14T23:35:25 EST" name="searchWithValidProduct" finished-at="2024-12-14T23:35:28 EST" duration-ms="2983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchWithValidProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-09T03:46:47 EST" name="tearDown" finished-at="2024-12-09T03:46:47 EST" duration-ms="227" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-14T23:35:28 EST" name="tearDown" finished-at="2024-12-14T23:35:28 EST" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="searchProductSetup()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-09T03:46:47 EST" name="searchProductSetup" finished-at="2024-12-09T03:46:48 EST" duration-ms="821" status="PASS">
+        <test-method is-config="true" signature="searchProductSetup()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-14T23:35:28 EST" name="searchProductSetup" finished-at="2024-12-14T23:35:29 EST" duration-ms="1109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProductSetup -->
-        <test-method signature="searchWithInvalidProduct()[pri:2, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-09T03:46:48 EST" name="searchWithInvalidProduct" finished-at="2024-12-09T03:46:51 EST" duration-ms="2872" status="PASS">
+        <test-method signature="searchWithInvalidProduct()[pri:2, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-14T23:35:29 EST" name="searchWithInvalidProduct" finished-at="2024-12-14T23:35:32 EST" duration-ms="2912" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchWithInvalidProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-09T03:46:51 EST" name="tearDown" finished-at="2024-12-09T03:46:51 EST" duration-ms="220" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.SearchProductTest@1f3f4916]" started-at="2024-12-14T23:35:32 EST" name="tearDown" finished-at="2024-12-14T23:35:32 EST" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.TN.TestCases.SearchProductTest -->
       <class name="com.TN.TestCases.LoginTest">
-        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-09T03:46:23 EST" name="loginSetup" finished-at="2024-12-09T03:46:26 EST" duration-ms="3171" status="PASS">
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-14T23:34:59 EST" name="loginSetup" finished-at="2024-12-14T23:35:04 EST" duration-ms="4488" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSetup -->
-        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-09T03:46:26 EST" name="verifyLoginWithValidCredentials" finished-at="2024-12-09T03:46:27 EST" duration-ms="1505" status="PASS">
+        <test-method signature="verifyLoginWithValidCredentials()[pri:1, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-14T23:35:04 EST" name="verifyLoginWithValidCredentials" finished-at="2024-12-14T23:35:06 EST" duration-ms="1928" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithValidCredentials -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-09T03:46:27 EST" name="tearDown" finished-at="2024-12-09T03:46:28 EST" duration-ms="257" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-14T23:35:06 EST" name="tearDown" finished-at="2024-12-14T23:35:06 EST" duration-ms="260" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-09T03:46:28 EST" name="loginSetup" finished-at="2024-12-09T03:46:31 EST" duration-ms="3141" status="PASS">
+        <test-method is-config="true" signature="loginSetup()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-14T23:35:06 EST" name="loginSetup" finished-at="2024-12-14T23:35:10 EST" duration-ms="3799" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginSetup -->
-        <test-method signature="verifyLoginWithValidEmailInvalidPassword()[pri:2, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-09T03:46:31 EST" name="verifyLoginWithValidEmailInvalidPassword" finished-at="2024-12-09T03:46:32 EST" duration-ms="1201" status="PASS">
+        <test-method signature="verifyLoginWithValidEmailInvalidPassword()[pri:2, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-14T23:35:10 EST" name="verifyLoginWithValidEmailInvalidPassword" finished-at="2024-12-14T23:35:11 EST" duration-ms="1438" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginWithValidEmailInvalidPassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-09T03:46:32 EST" name="tearDown" finished-at="2024-12-09T03:46:32 EST" duration-ms="151" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.LoginTest@5ccddd20]" started-at="2024-12-14T23:35:11 EST" name="tearDown" finished-at="2024-12-14T23:35:11 EST" duration-ms="255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.TN.TestCases.LoginTest -->
       <class name="com.TN.TestCases.RegisterTest">
-        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-09T03:46:32 EST" name="registerSetup" finished-at="2024-12-09T03:46:36 EST" duration-ms="3556" status="PASS">
+        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-14T23:35:11 EST" name="registerSetup" finished-at="2024-12-14T23:35:15 EST" duration-ms="3731" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerSetup -->
-        <test-method signature="verifyRegisterWithMandatoryDetails()[pri:1, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-09T03:46:36 EST" name="verifyRegisterWithMandatoryDetails" finished-at="2024-12-09T03:46:38 EST" duration-ms="2065" status="PASS">
+        <test-method signature="verifyRegisterWithMandatoryDetails()[pri:1, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-14T23:35:15 EST" name="verifyRegisterWithMandatoryDetails" finished-at="2024-12-14T23:35:17 EST" duration-ms="2356" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRegisterWithMandatoryDetails -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-09T03:46:38 EST" name="tearDown" finished-at="2024-12-09T03:46:38 EST" duration-ms="258" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-14T23:35:17 EST" name="tearDown" finished-at="2024-12-14T23:35:18 EST" duration-ms="256" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-09T03:46:38 EST" name="registerSetup" finished-at="2024-12-09T03:46:42 EST" duration-ms="3587" status="PASS">
+        <test-method is-config="true" signature="registerSetup()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-14T23:35:18 EST" name="registerSetup" finished-at="2024-12-14T23:35:22 EST" duration-ms="3873" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registerSetup -->
-        <test-method signature="verifyRegisterWithIncorrectConfirmPassword()[pri:2, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-09T03:46:42 EST" name="verifyRegisterWithIncorrectConfirmPassword" finished-at="2024-12-09T03:46:43 EST" duration-ms="1709" status="PASS">
+        <test-method signature="verifyRegisterWithIncorrectConfirmPassword()[pri:2, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-14T23:35:22 EST" name="verifyRegisterWithIncorrectConfirmPassword" finished-at="2024-12-14T23:35:24 EST" duration-ms="2179" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyRegisterWithIncorrectConfirmPassword -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-09T03:46:43 EST" name="tearDown" finished-at="2024-12-09T03:46:44 EST" duration-ms="194" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TN.TestCases.RegisterTest@1ed1993a]" started-at="2024-12-14T23:35:24 EST" name="tearDown" finished-at="2024-12-14T23:35:24 EST" duration-ms="252" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
